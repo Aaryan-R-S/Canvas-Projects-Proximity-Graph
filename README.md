@@ -58,7 +58,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This is a Collision game developed using HTML Canvas and served as a static webpage using GitHub pages. It is mind relaxing and fun-playing that really suit my needs. I usually play this to relax myself to make stress-free environment!
+This is a Proximity Simulation developed using HTML Canvas and served as a static webpage using GitHub pages. It is mind relaxing and fun-playing that really suit my needs. I usually play this to relax myself to make stress-free environment!
 
 ### Built With
 
